@@ -45,8 +45,9 @@ Install the following Python packages:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow spacy
 python -m spacy download en_core_web_sm
+```
 
-### 📂 Project Structure
+ 📂 Project Structure
 - pipeline.py — Main Python script containing the complete workflow
 
 - README.md — This file

@@ -56,11 +56,11 @@ python -m spacy download en_core_web_sm
 
 - Outputs:
 
-      - Confusion matrix plot (Iris)
+  Confusion matrix plot (Iris)
       
-      - CNN training history plots (MNIST)
+  CNN training history plots (MNIST)
       
-      - Sentiment and brand distribution plots (NLP)
+  Sentiment and brand distribution plots (NLP)
 
 
 🏃 How to Run
@@ -69,8 +69,10 @@ python -m spacy download en_core_web_sm
 2. Install dependencies.
 
 3. Run the script:
-
+   
+```bash
 python pipeline.py
+```
 
 4. Review the printed summaries and generated visualizations.
 
